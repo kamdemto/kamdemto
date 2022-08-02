@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KTO</h1>
-<h2 align="center">Front End Developper / Digital UX-UI / Wordpress Specialist / ODOO & NETSUITE Integrator / IT 🎖 ITILv4 / Google Ads / Analytic</h2>
+<h2 align="center">Front End Developper / Digital UX-UI / Wordpress Specialist / ODOO & NETSUITE Integrator </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamdemto&label=Profile%20views&color=0e75b6&style=flat" alt="kamdemto" /> </p>
 
