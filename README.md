@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KTO</h1>
-<h3 align="center">Media engineer, passionate about digital, UI/UX and programming. I have a rich and varied experience of 7 years in the analysis, prototyping, integration and propulsion of projects oriented in the digital transformation of companies in the sector of security, IoT, Telematics, transit, commerce and services. With my versatility, creativity, dynamism, flexibility and my ability to adapt and learn quickly, I am able to take up any challenge related to the profile of a social media manager, SEO Traffic Manager or to integrate a team of developers as a front end developer (Angular or VueJs, Wordpress, PHP), UI/UX Designer or ERP integrator NETSUITE or ODOO. Thanks to my qualities of mediator, organization, priority management, teamwork, motivator and result oriented, I am sure to bring a plus in the chain of your transformation.</h3>
+<h3 align="center">Front End Developper / Digital UX-UI / Wordpress Specialist / ODOO & NETSUITE Integrator / IT 🎖 ITILv4 / Google Ads / Analytic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamdemto&label=Profile%20views&color=0e75b6&style=flat" alt="kamdemto" /> </p>
 
