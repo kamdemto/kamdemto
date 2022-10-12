@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/iamkto" target="blank"><img src="https://img.shields.io/twitter/follow/iamkto?logo=twitter&style=for-the-badge" alt="iamkto" /></a> </p>
 
-- 🔭 I’m currently working on **UI/UI FOR Web/Mobile Application - Front End Integration App - Custom ERP Module FOR ODOO OR NETSUITE**
+- 🔭 I’m currently working on **UI/UI for Web/Mobile Application - Front End Integration App - Custom ERP Module FOR ODOO OR NETSUITE**
 
-- 🌱 I’m currently learning **NodeJS / NestJS / Angular / React / Ionic / Java Spring Boot / java Spring Cloud / Symfony / Laravel**
+- 🌱 I’m currently learning **NodeJS / NestJS / Angular / VueJS / Flutter / ReactJs / Java Spring Boot /Symfony / Laravel**
 
-- 👯 I’m looking to collaborate on **UI,UX Design projet,Front projet ,Odoo integration or Any wordpress integration**
+- 👯 I’m looking to collaborate on **UI,UX Design projet,Front projet angular/vue /php ,Odoo integration or Any wordpress integration**
 
-- 👨‍💻 All of my projects are available at [iamkto.com](iamkto.com)
+- 👨‍💻 All of my projects are available at [iamkto.com](erp.omegaventures.biz/iamkto/portefolio2021-olivier-kamdem.pdf)
 
-- 💬 Ask me about **PHP,VUEJS**
+- 💬 Ask me about **ANGULAR,PHP,VUEJS**
 
 - 📫 How to reach me **kamdemto@gmail.com**
 
